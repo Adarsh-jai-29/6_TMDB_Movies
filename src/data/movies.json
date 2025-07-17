@@ -1,0 +1,86 @@
+ {
+  "popular": [
+    {
+      "id": 1,
+      "title": "Freelance",
+      "poster_path": "/7Bd4EUOqQDKZXA6R5W0y7SIqMlB.jpg",
+      "vote_average": 8.2,
+      "release_date": "2023-10-27",
+      "overview": "An ex-special forces operative takes a job to provide security for a journalist as she interviews a dictator, but when a military coup breaks out in the middle of the interview, they must escape into the jungle."
+    },
+    {
+      "id": 2,
+      "title": "Killers of the Flower Moon",
+      "poster_path": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "vote_average": 7.7,
+      "release_date": "2023-10-20",
+      "overview": "Members of the Osage tribe in the United States are murdered under mysterious circumstances in the 1920s, sparking a major F.B.I. investigation."
+    },
+    {
+      "id": 3,
+      "title": "Trolls Band Together",
+      "poster_path": "/bkpPTZUdq31UGDovmszsg2CchiI.jpg",
+      "vote_average": 7.2,
+      "release_date": "2023-10-12",
+      "overview": "When Branch's brother Floyd is kidnapped for his musical talents by a duo of nefarious pop-star villains, Branch and Poppy embark on a harrowing and emotional journey."
+    },
+    {
+      "id": 4,
+      "title": "Leo",
+      "poster_path": "/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg",
+      "vote_average": 7.0,
+      "release_date": "2023-10-19",
+      "overview": "A mild-mannered man becomes a local hero through an act of violence, but it brings forth consequences with connection to a dangerous world."
+    },
+    {
+      "id": 5,
+      "title": "Wonka",
+      "poster_path": "/qhb1qOilapbapxWQn9jtRK3rBz6.jpg",
+      "vote_average": 6.9,
+      "release_date": "2023-12-07",
+      "overview": "The story will focus specifically on a young Willy Wonka and how he met the Oompa-Loompas on one of his earliest adventures."
+    },
+    {
+      "id": 6,
+      "title": "Oppenheimer",
+      "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "vote_average": 8.1,
+      "release_date": "2023-07-21",
+      "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II."
+    }
+  ],
+  "topRated": [
+    {
+      "id": 7,
+      "title": "The Godfather",
+      "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "vote_average": 9.2,
+      "release_date": "1972-03-14",
+      "overview": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+    },
+    {
+      "id": 8,
+      "title": "The Shawshank Redemption",
+      "poster_path": "/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+      "vote_average": 9.3,
+      "release_date": "1994-09-23",
+      "overview": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+    },
+    {
+      "id": 9,
+      "title": "The Godfather Part II",
+      "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "vote_average": 9.0,
+      "release_date": "1974-12-20",
+      "overview": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son Michael expands and tightens his grip on the family crime syndicate."
+    },
+    {
+      "id": 10,
+      "title": "Schindler's List",
+      "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "vote_average": 8.9,
+      "release_date": "1993-12-15",
+      "overview": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution."
+    }
+  ]
+}
